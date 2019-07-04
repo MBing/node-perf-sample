@@ -1,4 +1,6 @@
 // Clustering using pm2
+// Install pm2 globally
+// `npm i pm2 -g`
 
 const express = require('express');
 const app = express();
